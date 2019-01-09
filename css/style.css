@@ -1,4 +1,31 @@
-.container-fluid{
+.main{
 	background: url('../img/background.jpg') no-repeat;
 	background-size: cover;
+}
+.main p {
+	color: white;
+}
+img {
+	margin: 0 auto;
+}
+.social {
+	background: #020202;       
+}
+a{
+	color: white;
+}
+.fab, .far, .fas {
+	border: 2px solid white;
+	border-radius: 50%;
+	padding: 10%;
+	color: white;
+	margin: 3% auto;
+	font-size: x-large;
+}
+
+a :hover {
+	color: #e54439;
+}
+.blanc {
+	text-align: center;
 }
